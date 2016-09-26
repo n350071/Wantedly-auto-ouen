@@ -14,7 +14,7 @@ https://nodejs.org/en/download/
 ### 1. このリポジトリをクローンして、以下のコマンドでセットアップしてください。
 
 ```
-$ git clone 
+$ git clone https://github.com/nao0515ki/Wantedly-auto-ouen.git
 $ cd Wantedly-auto-ouen
 $ npm install selenium-webdriver
 ```
